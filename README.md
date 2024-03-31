@@ -49,3 +49,5 @@ Determines the most popular music genre for each country.
 Q3: Top Spending Customers per Country
 
 Identifies the customer that has spent the most on music for each country.
+
+![MusicDatabaseSchema](https://github.com/8169528178/SQL_Music_Store_Analysis/assets/120242082/5f6dd7c2-05db-4cb8-abcc-b4eff09e8d38)
